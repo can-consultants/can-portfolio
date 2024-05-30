@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/can-portfolio/static/css/main.4a5e7643.css",
-    "main.js": "/can-portfolio/static/js/main.30606dac.js",
+    "main.css": "/can-portfolio/static/css/main.018e5048.css",
+    "main.js": "/can-portfolio/static/js/main.52fd4e23.js",
     "static/js/453.f126ece2.chunk.js": "/can-portfolio/static/js/453.f126ece2.chunk.js",
     "static/media/co-ride.png": "/can-portfolio/static/media/co-ride.a1d5cd85a1bc485d6c29.png",
     "static/media/pantry-pal.png": "/can-portfolio/static/media/pantry-pal.afec5080a0fa3d1b6c26.png",
@@ -15,12 +15,12 @@
     "static/media/github.png": "/can-portfolio/static/media/github.cee4a2529f0e79748f02.png",
     "static/media/java.png": "/can-portfolio/static/media/java.375f91150aebfc2e19ef.png",
     "index.html": "/can-portfolio/index.html",
-    "main.4a5e7643.css.map": "/can-portfolio/static/css/main.4a5e7643.css.map",
-    "main.30606dac.js.map": "/can-portfolio/static/js/main.30606dac.js.map",
+    "main.018e5048.css.map": "/can-portfolio/static/css/main.018e5048.css.map",
+    "main.52fd4e23.js.map": "/can-portfolio/static/js/main.52fd4e23.js.map",
     "453.f126ece2.chunk.js.map": "/can-portfolio/static/js/453.f126ece2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a5e7643.css",
-    "static/js/main.30606dac.js"
+    "static/css/main.018e5048.css",
+    "static/js/main.52fd4e23.js"
   ]
 }
